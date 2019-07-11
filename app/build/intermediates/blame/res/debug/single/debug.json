@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_item.xml.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\layout\\device_item.xml"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.jpg.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\drawable-hdpi\\background.jpg"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]

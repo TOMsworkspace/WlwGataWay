@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Thu Jul 04 13:56:00 CST 2019
+7.path=lib/mips/libserial_port.so
+2.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+5.set=NATIVE_RESOURCE
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+7.baseType=DIRECTORY
+2.set=NATIVE_RESOURCE
+1.path=lib/arm64-v8a/libserial_port.so
+4.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=lib/x86_64/libserial_port.so
+5.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.set=NATIVE_RESOURCE
+3.path=lib/x86/libserial_port.so
+6.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=lib/armeabi-v7a/libserial_port.so
+7.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/mips64/libserial_port.so
+0.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/armeabi/libserial_port.so
+1.base=E\:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+4.baseType=DIRECTORY
+0.set=DEX

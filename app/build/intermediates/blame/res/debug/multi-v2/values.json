@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\andriod_studio\\WlwGateWay111\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "5,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "207,498",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "493,653"
+                    }
+                },
+                {
+                    "source": "E:\\andriod_studio\\WlwGateWay111\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "58,107,161",
+                        "endColumns": "47,52,50",
+                        "endOffsets": "101,155,207"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,156",
+                        "endColumns": "47,52,50",
+                        "endOffsets": "98,151,202"
+                    }
+                }
+            ]
+        }
+    ]
+}

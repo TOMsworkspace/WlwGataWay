@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="406dp"
+        android:layout_height="599dp"
+        android:layout_alignParentTop="true"
+
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="132dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginBottom="0dp"
+        android:scrollbars="vertical"
+        android:text="This is IOT gataway\n" />
+
+    <Button
+        android:id="@+id/DeviceState"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="DeviceState" />
+
+    <ListView
+        android:id="@+id/devicelist"
+        android:layout_width="145dp"
+        android:layout_height="132dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp" />
+
+    <Button
+        android:id="@+id/clearLog"
+        android:layout_width="122dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/DeviceState"
+        android:layout_marginTop="52dp"
+        android:text="ClearLog" />
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion '29.0.0'
+
+    defaultConfig {
+        applicationId "com.example.wlwgateway"
+        minSdkVersion 8
+        targetSdkVersion 16
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation files('src\\main\\jniLibs\\android-support-v4.jar')
+    implementation files('src\\main\\jniLibs\\xutils-3.5.0.jar')
+    //implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    //implementation 'com.android.support:support-v4:13.0.0'
+}
